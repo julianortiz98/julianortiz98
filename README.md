@@ -1,16 +1,34 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Julián David Ortiz Gaviria  
+🔹 Desarrollador de software apasionado por la creación de aplicaciones de escritorio y soluciones innovadoras.  
+🔹 Fundador de **Invent X Solutions**, donde desarrollo sistemas de inventario y otras herramientas tecnológicas.  
 
-<!--
-**julianortiz98/julianortiz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas
+💻 **Lenguajes:** JavaScript, Java, SQL  
+⚡ **Frameworks:** Electron, Node.js ,React 
+🗄️ **Bases de datos:** MySQL,firebase,mongoDB 
+🛠 **Otros:** Git, XAMPP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Proyectos Destacados  
+🔹 **Sistema de Inventario** – Aplicación de escritorio con lector de códigos de barra, conexión a MySQL y gestión de productos.  
+🔹 **Conexión Web-Móvil para Escaneo** – Página web que permite conectar un PC con un celular para abrir la cámara y escanear códigos de barras.  
+
+---
+
+### 📫 ¡Hablemos!
+💼 Buscando oportunidades en desarrollo de software  
+📧 **Email:** julianortizg98.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/juliandavidortizgaviria1998/) | [Portafolio](https://tuportafolio.com)  
+
+---
+🤝 Abierto a colaboraciones en proyectos interesantes  
+- 📖 Apasionado por la tecnología y el desarrollo de software
+- 💻 Estudiante de Ingenieria De Software 
+⭐ **¡No olvides seguirme y revisar mis proyectos!** 🚀  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+
