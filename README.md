@@ -21,7 +21,7 @@
 ### 📫 Let's Connect!  
 💼 Looking for opportunities in software development  
 📧 **Email:** julianortizg98.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/juliandavidortizgaviria1998/) | [Portfolio](https://yourportfolio.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/juliandavidortizgaviria1998/) | [Portfolio]()  
 
 ---
 
@@ -29,6 +29,8 @@
 - 📖 Passionate about technology and software development  
 - 💻 Software Engineering Student  
 ⭐ **Don't forget to follow me and check out my projects!** 🚀  
+
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)  
